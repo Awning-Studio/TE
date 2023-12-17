@@ -20,4 +20,4 @@ PASSWORD = "门户密码"
 运行即可
 
 ## 群聊
-<img src="/readme/Afterglow Group.jpg" />
+<img src="/readme/Afterglow Group.jpg" style="width: 40%" />
