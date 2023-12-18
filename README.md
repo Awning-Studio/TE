@@ -17,7 +17,7 @@ pip install bs4
 USERNAME = "你的学号"
 PASSWORD = "门户密码"
 ```
-4. 运行，会收到“输入存于当前目录下的验证码”，此时在你打开的目录下会生成一张名为“code.png”的图片，识别其中的验证码并输入即可。
+4. 运行，会收到“输入存于当前目录下的验证码”，此时在你打开的目录下（该Python源文件所在位置）会生成一张名为“code.png”的图片，识别其中的验证码并输入，回车即可。
 
 ## 群聊
 <img src="/readme/Afterglow Group.jpg" style="width: 40%" />
