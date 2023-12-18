@@ -4,7 +4,7 @@ USERNAME = ""
 PASSWORD = ""
 
 root = "http://jwxt.gdufe.edu.cn"
-base = "/jsxsd/"
+base = "/jsxsd"
 verify_code = "/verifycode.servlet"
 login_ = "/xk/LoginToXkLdap"
 list_ = "/xspj/xspj_find.do"
